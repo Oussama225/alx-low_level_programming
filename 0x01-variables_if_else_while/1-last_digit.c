@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+/* main.c */
 int main(void)
 {
 /*main function*/
