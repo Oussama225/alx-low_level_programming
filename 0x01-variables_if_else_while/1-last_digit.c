@@ -3,7 +3,7 @@
 #include <stdio.h>
 int main(void)
 {
-//main function	
+/*main function*/
 int n;
 int m;
 srand(time(0));
